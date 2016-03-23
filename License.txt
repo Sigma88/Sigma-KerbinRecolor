@@ -3,3 +3,10 @@ Sigma: Kerbin Recolor by Sigma88
 http://forum.kerbalspaceprogram.com/index.php/topic/132894-/
 
 All Rights Reserved
+
+
+This mod distributes the plugin "FlattenMountains.dll" which is licensed "All Rights Reserved" by Thomas P. & KillAshley
+Thanks to Thomas and KillAshley for giving me the permission of redistributing this plugin.
+
+Source and original license of "FlattenMountains.dll" can be found here:
+http://forum.kerbalspaceprogram.com/index.php/topic/124505-/
