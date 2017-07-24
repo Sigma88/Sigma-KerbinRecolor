@@ -1,5 +1,15 @@
-Sigma: Kerbin Recolor by Sigma88
+Sigma Kerbin Recolor by Sigma88 is released under the following license:
 
-http://forum.kerbalspaceprogram.com/index.php/topic/132894-/
 
 All Rights Reserved
+
+
+For more info visit the KSP Forum Thread:
+http://forum.kerbalspaceprogram.com/index.php?/topic/132894-0/
+
+
+
+This mod distributes the plugin "PQSMod_GroundStretch.dll" which is licensed "All Rights Reserved" by Sigma88
+
+Source and original license of "PQSMod_GroundStretch.dll" can be found here:
+https://github.com/Sigma88/PQSGroundStretch

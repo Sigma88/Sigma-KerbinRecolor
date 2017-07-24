@@ -1,3 +1,15 @@
+**v0.2.0**
+
+- Updated to KSP 1.3.0 and Kopernicus 1.3.0-4
+- Included SigmaKerbinRecolor.dll
+- Included PQSMod_GroundStretch.dll
+- Added required mod: Sigma EditorViewRecolor
+- Updated all recolors
+- Added new recolors:
+    > Minmus
+    > Eeloo
+
+
 **v0.1.0**
 
 - First Beta Release
